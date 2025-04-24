@@ -7,6 +7,7 @@
   </server>
 </servers>
 
+
 <profiles>
   <profile>
     <id>nextwork-nextwork-devops-cicd</id>
@@ -21,7 +22,6 @@
     </repositories>
   </profile>
 </profiles>
-
 <mirrors>
   <mirror>
     <id>nextwork-nextwork-devops-cicd</id>
